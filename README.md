@@ -31,7 +31,7 @@
 ## 3. 실습 데이터(Data) <a name="data" />
 * [Expense Summary - Finance Manager.xlsx](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/3.%20Data/Expense%20Summary%20-%20Finance%20Manager.xlsx)
 * [MLTD_Customer.csv](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/3.%20Data/MLTD_Customer.csv)
-* [MLTD_Response](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/3.%20Data/MLTD_Response)
+* [MLTD_Response.csv](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/3.%20Data/MLTD_Response.csv)
 
 ## 4. Wallet <a name="wallet" />
 * [ADW Wallet 다운로드 ](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/Wallet_adwoac0.zip)
