@@ -1,9 +1,9 @@
 # ADW HOL 교육자료
-* <a href="allinone.zip" download="allinone.zip">전체 자료 다운로드</a>
 * [전체 자료 다운로드](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/allinone.zip)
 ## 1. Guide books <a name="guide" />
+* [ADW Labs for Business User guide 01](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/2.%20OAC_DVAs/Finance%20Manager.dva)
 * <a href="1. Guide books/ADW Labs for Business User guide 01.pdf">ADW Labs for Business User guide 01</a>
-* <a href="1. Guide books/ADW Labs for Business User guide 02.pdf">ADW Labs for Business User guide 021</a>
+* <a href="1. Guide books/ADW Labs for Business User guide 02.pdf">ADW Labs for Business User guide 02</a>
 * <a href="1. Guide books/ADW Labs for Business User guide 03.pdf">ADW Labs for Business User guide 03</a>
 *
 ## 2. OAC_DVAs <a name="dva" />
