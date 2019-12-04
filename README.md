@@ -13,7 +13,7 @@
 * [Finance Manager.dva](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/2.%20OAC_DVAs/Finance%20Manager.dva)
 * [HR Manager.dva](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/2.%20OAC_DVAs/HR%20Manager.dva)
 * [Marketing Manager.dva](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/2.%20OAC_DVAs/Marketing%20Manager.dva)
-* [Procurement Manager.dva](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/2.%20OAC_DVAs/ProcurementR%20Manager.dva)
+* [Procurement Manager.dva](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/2.%20OAC_DVAs/Procurement%20Manager.dva)
 * [Production Manager.dva](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/2.%20OAC_DVAs/Production%20Manager.dva)
 * [Sales Manager.dva](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/2.%20OAC_DVAs/Sales%20Manager.dva)
 --
