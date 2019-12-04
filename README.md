@@ -1,4 +1,10 @@
 # ADW HOL 교육자료
+## 0. 사전 정보
+| 항목   | 내용                   |
+|---     |---                     |
+|tenancy | hol1191217 / hol191217 |
+|account | wonyong.lee@oracle.com |
+|password| D**%                   |
 * [전체 자료 다운로드](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/allinone.zip) / [ADW Wallet 다운로드 ](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/Wallet_adwoac0.zip)
 ## 1. Guide books <a name="guide" />
 <!--
