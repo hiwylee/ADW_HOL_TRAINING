@@ -9,9 +9,14 @@
 * <a href="1. Guide books/ADW Labs for Business User guide 03.pdf">ADW Labs for Business User guide 03</a>
 *
 ## 2. OAC_DVAs <a name="dva" />
-* [ADW Labs for Business User guide 01](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/2.%20OAC_DVAs/Finance%20Manager.dva)
-* [Finance Manager.dva](2.%20OAC_DVAs/Finance%20Manager.dva)
+
+* [Finance Manager.dva](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/2.%20OAC_DVAs/Finance%20Manager.dva)
 * [HR Manager.dva](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/2.%20OAC_DVAs/HR%20Manager.dva)
+* [Marketing Manager.dva](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/2.%20OAC_DVAs/Marketing%20Manager.dva)
+* [Procurement Manager.dva](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/2.%20OAC_DVAs/ProcurementR%20Manager.dva)
+* [Production Manager.dva](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/2.%20OAC_DVAs/Production%20Manager.dva)
+* [Sales Manager.dva](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/2.%20OAC_DVAs/Sales%20Manager.dva)
+--
 * <a href="2. OAC_DVAs/Finance Manager.dva">Finance Manager.dva</a>
 * <a href="2. OAC_DVAs/HR Manager.dva">HR Manager.dva</a>
 * <a href="2. OAC_DVAs/Marketing Manager.dva">Marketing Manager.dva</a>
@@ -20,6 +25,6 @@
 * <a href="2. OAC_DVAs/Sales Manager.dva">Sales Manager.dva</a>
 
 ## 3. Data <a name="data" />
-* <a href="3. Data/Expense Summary - Finance Manager.xlsx">Expense Summary - Finance Manager.xlsx</a>
-* <a href="3. Data/MLTD_Customer.csv">MLTD_Customer.csv</a>
-* <a href="3. Data/MLTD_Response.csv">MLTD_Response.csv</a>
+* [Expense Summary - Finance Manager.xlsx](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/3.%20Data/Expense%20Summary%20-%20Finance Manager.xlsx)
+* [MLTD_Customer.csv](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/3.%20Data/MLTD_Customer.csv)
+* [MLTD_Response](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/3.%20Data/MLTD_Response)
