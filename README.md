@@ -1,5 +1,5 @@
 # ADW HOL 교육자료
-* [전체 자료 다운로드](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/allinone.zip)
+* [전체 자료 다운로드](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/allinone.zip) / [ADW Wallet 다운로드 ](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/Wallet_adwoac0.zip)
 ## 1. Guide books <a name="guide" />
 <!--
 * [ADW Labs for Business User guide 01](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/2.%20OAC_DVAs/Finance%20Manager.dva)
