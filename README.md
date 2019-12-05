@@ -1,9 +1,10 @@
 # ADW HOL 교육자료
-* [전체 자료 다운로드](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/allinone.zip) / [ADW Wallet 다운로드 ](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/Wallet_adwoac0.zip)
+* [전체 자료 다운로드](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/allinone.zip)
 ## 0. 사전 정보
 | 항목   | 내용                   |
 |---     |---                     |
-|tenancy | hol1191217 / hol191217 |
+|OAC     | [접속하기](https://adwoac-cnn2d5yz7ejg-ic.analytics.ocp.oraclecloud.com/ui/)|
+|tenancy | hol191217 |
 |account | wonyong.lee@oracle.com |
 |password| D**%                   |
 
@@ -39,6 +40,7 @@
 * [Expense Summary - Finance Manager.xlsx](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/3.%20Data/Expense%20Summary%20-%20Finance%20Manager.xlsx)
 * [MLTD_Customer.csv](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/3.%20Data/MLTD_Customer.csv)
 * [MLTD_Response.csv](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/3.%20Data/MLTD_Response.csv)
-
+<!--
 ## 4. Wallet <a name="wallet" />
 * [ADW Wallet 다운로드 ](https://github.com/hiwylee/ADW_HOL_TRAINING/raw/master/Wallet_adwoac0.zip)
+-->
