@@ -3,9 +3,10 @@
 ## 0. 사전 정보
 | 항목   | 내용                   |
 |---     |---                     |
+|OCI     | [접속하기](https://console.ap-seoul-1.oraclecloud.com/)|
 |OAC     | [접속하기](https://adwoac-cnn2d5yz7ejg-ic.analytics.ocp.oraclecloud.com/ui/)|
 |tenancy | hol191217 |
-|account | wonyong.lee@oracle.com |
+|username| mail (ex:wonyong.lee@oracle.com) |
 |password| D**%                   |
 
 ## 1. Guide books <a name="guide" />
